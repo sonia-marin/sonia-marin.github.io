@@ -1,0 +1,29 @@
+#header {
+    background-color : #daf1f7ff;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+#header h1 a{
+    text-decoration: none;
+}
+
+#nav{
+    background-color: #fe6500;
+}
+
+#nav ul{
+    list-style-type: none;
+}
+
+#nav a{
+    color: white;
+    text-decoration: none;
+}
+
+#footer{
+    background-color: #daf1f7ff;
+    padding: 4rem 0;
+    min-height: 10rem;
+    margin-top: 4rem;
+}
